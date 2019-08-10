@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/audioplayer/static/css/main.34de6062.chunk.css",
+    "main.js": "/audioplayer/static/js/main.d13fff5e.chunk.js",
+    "main.js.map": "/audioplayer/static/js/main.d13fff5e.chunk.js.map",
+    "runtime~main.js": "/audioplayer/static/js/runtime~main.2f0c08f4.js",
+    "runtime~main.js.map": "/audioplayer/static/js/runtime~main.2f0c08f4.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/audioplayer/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/audioplayer/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/audioplayer/index.html",
+    "precache-manifest.f8854294574212fc409df27993159efc.js": "/audioplayer/precache-manifest.f8854294574212fc409df27993159efc.js",
+    "service-worker.js": "/audioplayer/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/audioplayer/static/css/main.34de6062.chunk.css.map"
+  }
+}
